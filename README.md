@@ -8,4 +8,4 @@ Network+
 I love to read and watching reality TV shows.
 ## 🔗 Links
 https://github.com/aflippo12/hello-world/pull/1
-_"I'm just a girl in thr world!"_
+_"I'm just a girl in the world!"_
